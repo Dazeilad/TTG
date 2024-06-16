@@ -5,7 +5,7 @@
 ===============================================================================
 */
 
-/* Make page texts black */
+/* Make page texts black and background white */
 .user-container h2,
 .user-container small,
 .user-container .user-mail,
@@ -14,10 +14,6 @@
 #ynh-logout {
   color: black !important;
   text-shadow: 0px, 0px, 5px, black !important;
-}
-
-/* Make text background white */
-.ynh-wrapper {
   background-color: rgba(255, 255, 255, 0.8) !important;
 }
 
