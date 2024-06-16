@@ -14,4 +14,6 @@
 */
 #ynh-overlay-switch {
   background-image: url("./overlay.png");
+ border: none;
+ background-color: none;
 }
