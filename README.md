@@ -1,4 +1,4 @@
-#TTG
+# TTG
 
 This is a derivated work of "Clouds" theme provided by Yunohost.
 
