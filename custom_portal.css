@@ -32,7 +32,7 @@
 }
 
 .user-username:after {
-   color: #d2b433;
+   color: rgba(210, 180, 51, 1) !important;
 }
 
 /* Apps colors */
